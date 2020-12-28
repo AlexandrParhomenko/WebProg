@@ -1,0 +1,13 @@
+.Side-bar {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    min-width: 250px;
+    height: 100%;
+    padding: 25px;
+    margin-top: 250px;
+    background: #4d80e9;
+    margin-left: 25px;
+    box-shadow: 2px 2px 20px rgb(27, 82, 141);
+    border-radius: 10px;
+}

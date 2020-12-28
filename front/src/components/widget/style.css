@@ -1,0 +1,17 @@
+.widget {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 100px;
+    max-width: 100px;
+    max-height: 200px;
+    margin-bottom: 80px;
+}
+
+.widget-default{
+    background-color: #279404;
+}
+.widget-red{
+    background-color: #ee0d0d;
+}
